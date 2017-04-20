@@ -1,0 +1,60 @@
+.class Lcom/android/systemui/statusbar/BaseStatusBar$7$4;
+.super Ljava/lang/Object;
+.source "BaseStatusBar.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/android/systemui/statusbar/BaseStatusBar$7;->onNotificationRankingUpdate(Landroid/service/notification/NotificationListenerService$RankingMap;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$1:Lcom/android/systemui/statusbar/BaseStatusBar$7;
+
+.field final synthetic val$rankingMap:Landroid/service/notification/NotificationListenerService$RankingMap;
+
+
+# direct methods
+.method constructor <init>(Lcom/android/systemui/statusbar/BaseStatusBar$7;Landroid/service/notification/NotificationListenerService$RankingMap;)V
+    .registers 3
+    .param p1, "this$1"    # Lcom/android/systemui/statusbar/BaseStatusBar$7;
+    .param p2, "val$rankingMap"    # Landroid/service/notification/NotificationListenerService$RankingMap;
+
+    .prologue
+    .line 678
+    iput-object p1, p0, Lcom/android/systemui/statusbar/BaseStatusBar$7$4;->this$1:Lcom/android/systemui/statusbar/BaseStatusBar$7;
+
+    iput-object p2, p0, Lcom/android/systemui/statusbar/BaseStatusBar$7$4;->val$rankingMap:Landroid/service/notification/NotificationListenerService$RankingMap;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .registers 3
+
+    .prologue
+    .line 681
+    iget-object v0, p0, Lcom/android/systemui/statusbar/BaseStatusBar$7$4;->this$1:Lcom/android/systemui/statusbar/BaseStatusBar$7;
+
+    iget-object v0, v0, Lcom/android/systemui/statusbar/BaseStatusBar$7;->this$0:Lcom/android/systemui/statusbar/BaseStatusBar;
+
+    iget-object v1, p0, Lcom/android/systemui/statusbar/BaseStatusBar$7$4;->val$rankingMap:Landroid/service/notification/NotificationListenerService$RankingMap;
+
+    invoke-virtual {v0, v1}, Lcom/android/systemui/statusbar/BaseStatusBar;->updateNotificationRanking(Landroid/service/notification/NotificationListenerService$RankingMap;)V
+
+    .line 680
+    return-void
+.end method

@@ -1,0 +1,226 @@
+.class final Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;
+.super Ljava/lang/Object;
+.source "PbapClientProfile.java"
+
+# interfaces
+.implements Landroid/bluetooth/BluetoothProfile$ServiceListener;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/android/settingslib/bluetooth/PbapClientProfile;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x12
+    name = "PbapClientServiceListener"
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+
+# direct methods
+.method private constructor <init>(Lcom/android/settingslib/bluetooth/PbapClientProfile;)V
+    .registers 2
+    .param p1, "this$0"    # Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    .prologue
+    .line 56
+    iput-object p1, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method synthetic constructor <init>(Lcom/android/settingslib/bluetooth/PbapClientProfile;Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;)V
+    .registers 3
+    .param p1, "this$0"    # Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    .prologue
+    invoke-direct {p0, p1}, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;-><init>(Lcom/android/settingslib/bluetooth/PbapClientProfile;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onServiceConnected(ILandroid/bluetooth/BluetoothProfile;)V
+    .registers 9
+    .param p1, "profile"    # I
+    .param p2, "proxy"    # Landroid/bluetooth/BluetoothProfile;
+
+    .prologue
+    .line 60
+    invoke-static {}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-get0()Z
+
+    move-result v3
+
+    if-eqz v3, :cond_f
+
+    .line 61
+    const-string/jumbo v3, "PbapClientProfile"
+
+    const-string/jumbo v4, "Bluetooth service connected"
+
+    invoke-static {v3, v4}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+    .line 63
+    :cond_f
+    iget-object v3, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    check-cast p2, Landroid/bluetooth/BluetoothPbapClient;
+
+    .end local p2    # "proxy":Landroid/bluetooth/BluetoothProfile;
+    invoke-static {v3, p2}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-set1(Lcom/android/settingslib/bluetooth/PbapClientProfile;Landroid/bluetooth/BluetoothPbapClient;)Landroid/bluetooth/BluetoothPbapClient;
+
+    .line 65
+    iget-object v3, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    invoke-static {v3}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-get4(Lcom/android/settingslib/bluetooth/PbapClientProfile;)Landroid/bluetooth/BluetoothPbapClient;
+
+    move-result-object v3
+
+    invoke-virtual {v3}, Landroid/bluetooth/BluetoothPbapClient;->getConnectedDevices()Ljava/util/List;
+
+    move-result-object v1
+
+    .line 66
+    .local v1, "deviceList":Ljava/util/List;, "Ljava/util/List<Landroid/bluetooth/BluetoothDevice;>;"
+    :goto_20
+    invoke-interface {v1}, Ljava/util/List;->isEmpty()Z
+
+    move-result v3
+
+    if-nez v3, :cond_73
+
+    .line 67
+    const/4 v3, 0x0
+
+    invoke-interface {v1, v3}, Ljava/util/List;->remove(I)Ljava/lang/Object;
+
+    move-result-object v2
+
+    check-cast v2, Landroid/bluetooth/BluetoothDevice;
+
+    .line 68
+    .local v2, "nextDevice":Landroid/bluetooth/BluetoothDevice;
+    iget-object v3, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    invoke-static {v3}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-get1(Lcom/android/settingslib/bluetooth/PbapClientProfile;)Lcom/android/settingslib/bluetooth/CachedBluetoothDeviceManager;
+
+    move-result-object v3
+
+    invoke-virtual {v3, v2}, Lcom/android/settingslib/bluetooth/CachedBluetoothDeviceManager;->findDevice(Landroid/bluetooth/BluetoothDevice;)Lcom/android/settingslib/bluetooth/CachedBluetoothDevice;
+
+    move-result-object v0
+
+    .line 70
+    .local v0, "device":Lcom/android/settingslib/bluetooth/CachedBluetoothDevice;
+    if-nez v0, :cond_69
+
+    .line 71
+    const-string/jumbo v3, "PbapClientProfile"
+
+    new-instance v4, Ljava/lang/StringBuilder;
+
+    invoke-direct {v4}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string/jumbo v5, "PbapClientProfile found new device: "
+
+    invoke-virtual {v4, v5}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v4
+
+    invoke-virtual {v4, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+
+    move-result-object v4
+
+    invoke-virtual {v4}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v4
+
+    invoke-static {v3, v4}, Landroid/util/Log;->w(Ljava/lang/String;Ljava/lang/String;)I
+
+    .line 72
+    iget-object v3, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    invoke-static {v3}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-get1(Lcom/android/settingslib/bluetooth/PbapClientProfile;)Lcom/android/settingslib/bluetooth/CachedBluetoothDeviceManager;
+
+    move-result-object v3
+
+    iget-object v4, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    invoke-static {v4}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-get2(Lcom/android/settingslib/bluetooth/PbapClientProfile;)Lcom/android/settingslib/bluetooth/LocalBluetoothAdapter;
+
+    move-result-object v4
+
+    iget-object v5, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    invoke-static {v5}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-get3(Lcom/android/settingslib/bluetooth/PbapClientProfile;)Lcom/android/settingslib/bluetooth/LocalBluetoothProfileManager;
+
+    move-result-object v5
+
+    invoke-virtual {v3, v4, v5, v2}, Lcom/android/settingslib/bluetooth/CachedBluetoothDeviceManager;->addDevice(Lcom/android/settingslib/bluetooth/LocalBluetoothAdapter;Lcom/android/settingslib/bluetooth/LocalBluetoothProfileManager;Landroid/bluetooth/BluetoothDevice;)Lcom/android/settingslib/bluetooth/CachedBluetoothDevice;
+
+    move-result-object v0
+
+    .line 74
+    :cond_69
+    iget-object v3, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    const/4 v4, 0x2
+
+    invoke-virtual {v0, v3, v4}, Lcom/android/settingslib/bluetooth/CachedBluetoothDevice;->onProfileStateChanged(Lcom/android/settingslib/bluetooth/LocalBluetoothProfile;I)V
+
+    .line 75
+    invoke-virtual {v0}, Lcom/android/settingslib/bluetooth/CachedBluetoothDevice;->refresh()V
+
+    goto :goto_20
+
+    .line 77
+    .end local v0    # "device":Lcom/android/settingslib/bluetooth/CachedBluetoothDevice;
+    .end local v2    # "nextDevice":Landroid/bluetooth/BluetoothDevice;
+    :cond_73
+    iget-object v3, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    const/4 v4, 0x1
+
+    invoke-static {v3, v4}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-set0(Lcom/android/settingslib/bluetooth/PbapClientProfile;Z)Z
+
+    .line 59
+    return-void
+.end method
+
+.method public onServiceDisconnected(I)V
+    .registers 4
+    .param p1, "profile"    # I
+
+    .prologue
+    .line 81
+    invoke-static {}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-get0()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_f
+
+    .line 82
+    const-string/jumbo v0, "PbapClientProfile"
+
+    const-string/jumbo v1, "Bluetooth service disconnected"
+
+    invoke-static {v0, v1}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+    .line 84
+    :cond_f
+    iget-object v0, p0, Lcom/android/settingslib/bluetooth/PbapClientProfile$PbapClientServiceListener;->this$0:Lcom/android/settingslib/bluetooth/PbapClientProfile;
+
+    const/4 v1, 0x0
+
+    invoke-static {v0, v1}, Lcom/android/settingslib/bluetooth/PbapClientProfile;->-set0(Lcom/android/settingslib/bluetooth/PbapClientProfile;Z)Z
+
+    .line 80
+    return-void
+.end method
