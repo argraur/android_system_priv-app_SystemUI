@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/scrollView" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="?android:dialogPreferredPadding" android:paddingTop="?android:dialogPreferredPadding" android:paddingRight="?android:dialogPreferredPadding" android:paddingBottom="?android:dialogPreferredPadding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="?android:textColorPrimaryInverse" android:id="@id/device_owner_warning" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@android:style/TextAppearance.Material.Subhead" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/vpn_icon" android:paddingTop="?android:dialogPreferredPadding" android:layout_width="@dimen/qs_footer_dialog_icon_size" android:layout_height="wrap_content" android:src="@drawable/ic_qs_vpn" android:scaleType="fitCenter" android:adjustViewBounds="true" android:tint="?android:textColorPrimaryInverse" android:layout_marginStart="@dimen/qs_footer_dialog_icon_margin" android:layout_marginEnd="@dimen/qs_footer_dialog_icon_margin" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textColor="?android:textColorPrimaryInverse" android:id="@id/vpn_subtitle" android:paddingTop="?android:dialogPreferredPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/monitoring_subtitle_vpn" style="@android:style/TextAppearance.Material.Title" />
+                <TextView android:textColor="?android:textColorPrimaryInverse" android:id="@id/vpn_warning" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@null" style="@android:style/TextAppearance.Material.Subhead" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/network_logging_icon" android:paddingTop="?android:dialogPreferredPadding" android:layout_width="@dimen/qs_footer_dialog_icon_size" android:layout_height="wrap_content" android:src="@drawable/ic_qs_network_logging" android:scaleType="fitCenter" android:adjustViewBounds="true" android:tint="?android:textColorPrimaryInverse" android:alpha="@dimen/qs_footer_dialog_network_logging_icon_alpha" android:layout_marginStart="@dimen/qs_footer_dialog_icon_margin" android:layout_marginEnd="@dimen/qs_footer_dialog_icon_margin" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textColor="?android:textColorPrimaryInverse" android:id="@id/network_logging_subtitle" android:paddingTop="?android:dialogPreferredPadding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/monitoring_subtitle_network_logging" style="@android:style/TextAppearance.Material.Title" />
+                <TextView android:textColor="?android:textColorPrimaryInverse" android:id="@id/network_logging_warning" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/monitoring_description_network_logging" style="@android:style/TextAppearance.Material.Subhead" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
