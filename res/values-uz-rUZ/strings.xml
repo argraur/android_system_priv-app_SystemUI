@@ -1136,4 +1136,6 @@ Telefon sovishi bilan normal holatda ishlashni boshlaydi."</string>
     <string name="kg_prompt_reason_device_admin">Qurilma administrator tomonidan qulflangan</string>
     <string name="kg_prompt_reason_user_request">Qurilma qo‘lda qulflangan</string>
     <string name="fingerprint_not_recognized">Aniqlanmadi</string>
+    <string name="google_services_wallpaper_permission"><b>Jonli fon rasmlari qayerda ekanligingizga qarab almashib turishi uchun</b> Google joylashuvni aniqlash xizmatini yoqing.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Jonli fon rasmlari uchun Google joylashuvni aniqlash xizmatini yoqish yoki o‘chirib qo‘yish uchun Sozlamalar > Ilovalar > Tizim ilovalari (qo‘shimcha menyuda) > Jonli axborot yoki Jonli Yer fon rasmlari menyusiga o‘tib, “Ruxsatnomalar” bo‘limiga kiring.</string>
 </resources>

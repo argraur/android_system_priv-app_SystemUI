@@ -1136,4 +1136,6 @@ Skúste to znova o %2$d s."</string>
     <string name="kg_prompt_reason_device_admin">Zariadenie uzamkol správca</string>
     <string name="kg_prompt_reason_user_request">Zariadenie bolo uzamknuté ručne</string>
     <string name="fingerprint_not_recognized">Nebol rozpoznaný</string>
+    <string name="google_services_wallpaper_permission"><b>Umožnite dynamickým tapetám Google reagovať na vašu polohu</b> získaním prístupu k službám určovania polohy Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Prístup k službám určovania polohy pre dynamické tapety môžete zapnúť alebo vypnúť klepnutím v rozšírenej ponuke na položky Nastavenia > Aplikácie > Systémové aplikácie > Tapety Živé dáta / Tapety Živá Zem a následným klepnutím na Povolenia.</string>
 </resources>

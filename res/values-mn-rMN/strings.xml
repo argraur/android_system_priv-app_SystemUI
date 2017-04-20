@@ -1136,4 +1136,6 @@
     <string name="kg_prompt_reason_device_admin">Төхөөрөмжийн админ төхөөрөмжийг түгжсэн</string>
     <string name="kg_prompt_reason_user_request">Төхөөрөмжийг гараар түгжсэн</string>
     <string name="fingerprint_not_recognized">Танигдахгүй байна</string>
+    <string name="google_services_wallpaper_permission">Google-н байршлын үйлчилгээнд хандаж, <b>Google-н хөдөлгөөнт ханын зургийг таны байршилд хариу үзүүлэхийг зөвшөөрнө үү</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Та цэсний Хөдөлгөөнт өгөгдлийн ханын зураг / Ертөнцийн хөдөлгөөнт зурагны Тохиргоо, Апп, Системийн Апп-д зочилсноор Хөдөлгөөнт ханын зургийн Google-н байршлын үйлчилгээний хандалтыг унтрааж, асаах боломжтой.</string>
 </resources>

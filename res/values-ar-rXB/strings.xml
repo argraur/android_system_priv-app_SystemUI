@@ -1156,4 +1156,6 @@ Try‬‏ ‏‮again‬‏ ‏‮in‬‏ %2$d ‏‮seconds.‬‏"</string>
     <string name="kg_prompt_reason_device_admin">‏‮Device‬‏ ‏‮administrator‬‏ ‏‮locked‬‏ ‏‮device‬‏</string>
     <string name="kg_prompt_reason_user_request">‏‮Device‬‏ ‏‮was‬‏ ‏‮locked‬‏ ‏‮manually‬‏</string>
     <string name="fingerprint_not_recognized">‏‮Not‬‏ ‏‮recognized‬‏</string>
+    <string name="google_services_wallpaper_permission"><b>‏‮Allow‬‏ ‏‮Google‬‏ ‏‮Live‬‏ ‏‮wallpapers‬‏ ‏‮to‬‏ ‏‮respond‬‏ ‏‮to‬‏ ‏‮your‬‏ ‏‮location‬‏</b> ‏‮by‬‏ ‏‮accessing‬‏ ‏‮Google’s‬‏ ‏‮location‬‏ ‏‮service.‬‏</string>
+    <string name="google_services_wallpaper_permission_dialog_text">‏‮You‬‏ ‏‮can‬‏ ‏‮turn‬‏ ‏‮access‬‏ ‏‮to‬‏ ‏‮Google’s‬‏ ‏‮location‬‏ ‏‮service‬‏ ‏‮for‬‏ ‏‮Live‬‏ ‏‮wallpapers‬‏ ‏‮on‬‏ ‏‮or‬‏ ‏‮off‬‏ ‏‮by‬‏ ‏‮going‬‏ ‏‮to‬‏ ‏‮Settings‬‏ ‏‮>‬‏ ‏‮Apps‬‏ ‏‮>‬‏ ‏‮System‬‏ ‏‮Apps‬‏ ‏‮from‬‏ ‏‮the‬‏ ‏‮overflow‬‏ ‏‮menu‬‏ ‏‮>‬‏ ‏‮Live‬‏ ‏‮data‬‏ ‏‮wallpapers‬‏ ‏‮/‬‏ ‏‮Live‬‏ ‏‮Earth‬‏ ‏‮Wallpapers,‬‏ ‏‮then‬‏ ‏‮tap‬‏ ‏‮Permissions.‬‏</string>
 </resources>

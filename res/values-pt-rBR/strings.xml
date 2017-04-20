@@ -1136,4 +1136,6 @@ Tente novamente em %2$d segundos."</string>
     <string name="kg_prompt_reason_device_admin">O dispositivo foi bloqueado pelo administrador</string>
     <string name="kg_prompt_reason_user_request">O dispositivo foi bloqueado manualmente</string>
     <string name="fingerprint_not_recognized">Não reconhecido</string>
+    <string name="google_services_wallpaper_permission"><b>Permita que os planos de fundo interativos do Google respondam à sua localização</b> acessando o serviço de localização do Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">É possível ativar ou desativar o acesso ao serviço de localização do Google para planos de fundo interativos, acessando \"Config.\" > \"Apps\" > \"Apps do sistema\" no menu flutuante > \"Planos de fundo\" da coleção \"Dados ao vivo\" / \"Terra em movimento\" e tocando em \"Permissões\".</string>
 </resources>

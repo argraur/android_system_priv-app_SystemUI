@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">آلہ کے منتظم نے آلہ مقفل کر دیا</string>
     <string name="kg_prompt_reason_user_request">آلہ کو دستی طور پر مقفل کیا گیا تھا</string>
     <string name="fingerprint_not_recognized">تسلیم شدہ نہیں ہے</string>
+    <string name="google_services_wallpaper_permission">‏Google کی مقام کی سروس تک رسائی کرکے <b>Google لائیو وال پیپیرز کو اپنے مقام کا جواب دینے دیں</b>۔</string>
+    <string name="google_services_wallpaper_permission_dialog_text">‏آپ Google کی لائیو وال پیپرز کیلئے مقام کی سروس کو اوور فلو مینو > لائیو ڈیٹا وال پیپرز / لائیو زمین وال پیپرز سے ترتیبات > ایپس > سسٹم ایپس میں جا کر آن یا آف کر سکتے ہیں، پھر اجازتوں پر تھپتھپائیں۔</string>
 </resources>

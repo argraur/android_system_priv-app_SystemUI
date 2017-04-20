@@ -1136,4 +1136,6 @@ Riprova tra %2$d secondi."</string>
     <string name="kg_prompt_reason_device_admin">"L'amministratore del dispositivo lo ha bloccato"</string>
     <string name="kg_prompt_reason_user_request">Il dispositivo è stato bloccato manualmente</string>
     <string name="fingerprint_not_recognized">Non riconosciuto</string>
+    <string name="google_services_wallpaper_permission"><b>Consenti agli sfondi animati di Google di reagire in base alla tua posizione</b>" concedendo l'accesso al servizio di geolocalizzazione di Google."</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"Puoi attivare o disattivare l'accesso al servizio di geolocalizzazione di Google per gli sfondi animati selezionando Impostazioni > App > App di sistema dal menu extra > Sfondi Dati in movimento/Sfondi Terra in movimento, quindi tocca Autorizzazioni."</string>
 </resources>

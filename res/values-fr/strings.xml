@@ -1136,4 +1136,6 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="kg_prompt_reason_device_admin">"Appareil verrouillé par l'administrateur"</string>
     <string name="kg_prompt_reason_user_request">Appareil verrouillé manuellement</string>
     <string name="fingerprint_not_recognized">Non reconnu</string>
+    <string name="google_services_wallpaper_permission"><b>"Autorisez les fonds d'écran animés Google à changer en fonction de votre position"</b> en accédant au service de localisation de Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"Vous pouvez activer ou désactiver l'accès au service de localisation de Google pour les fonds d'écran animés. Pour cela, accédez aux paramètres > Applications > Applications système dans le menu à développer > Fonds d'écran basés sur des données en temps réel/Fonds d'écran représentant la Terre en direct, puis appuyez sur \"Autorisations\"."</string>
 </resources>

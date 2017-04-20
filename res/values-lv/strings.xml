@@ -1137,4 +1137,6 @@ Mēģiniet vēlreiz pēc %3$d sekundēm."</string>
     <string name="kg_prompt_reason_device_admin">Ierīces administratora bloķēta ierīce</string>
     <string name="kg_prompt_reason_user_request">Ierīce tika bloķēta manuāli</string>
     <string name="fingerprint_not_recognized">Nav atpazīts</string>
+    <string name="google_services_wallpaper_permission"><b>Atļaujiet Google reāllaika fona tapetēm reaģēt uz atrašanās vietu</b>, piekļūstot Google atrašanās vietas pakalpojumam.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Varat ieslēgt vai izslēgt reāllaika fona tapešu piekļuvi Google atrašanās vietas pakalpojumam, pārejot uz sadaļu Iestatījumi > Lietotnes > Sistēmas lietotnes pārpildes izvēlnē > Reāllaika fona tapetes/Zemes reāllaika attēlu fona tapetes. Pēc tam pieskarieties vienumam Atļaujas.</string>
 </resources>

@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">Η συσκευή κλειδώθηκε από το διαχειριστή της</string>
     <string name="kg_prompt_reason_user_request">Η συσκευή κλειδώθηκε με μη αυτόματο τρόπο</string>
     <string name="fingerprint_not_recognized">Δεν αναγνωρίστηκε</string>
+    <string name="google_services_wallpaper_permission"><b>Επιτρέψτε στις Ζωντανές ταπετσαρίες Google να αποκρίνονται στην τοποθεσία σας</b> μεταβαίνοντας στη ρύθμιση τοποθεσίας της Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"Μπορείτε να ενεργοποιήσετε  ή να απενεργοποιήσετε την πρόσβαση στην υπηρεσία τοποθεσίας της Google για τις Ζωντανές ταπετσαρίες, μεταβαίνοντας στις Ρυθμίσεις > Εφαρμογές > Εφαρμογές συστήματος από το μενού υπερχείλισης > Δεδομένα Ζωντανών ταπετσαριών / Ζωντανές ταπετσαρίες της Γης και, στη συνέχεια, πατώντας Δικαιώματα."</string>
 </resources>

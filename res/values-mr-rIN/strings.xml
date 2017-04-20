@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">डिव्हाइस प्रशासकाने डिव्हाइस लॉक केले</string>
     <string name="kg_prompt_reason_user_request">डिव्हाइस व्यक्तिचलितरित्या लॉक केले होते</string>
     <string name="fingerprint_not_recognized">ओळखले नाही</string>
+    <string name="google_services_wallpaper_permission">Google च्या स्थान इतिहासामध्ये प्रवेश करून <b>Google लाइव्‍ह वॉलपेपर ना आपल्या स्थानास प्रतिसाद देण्याची अनुमती द्या</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">आपण ओव्हरफ्लो मेनू > लाइव्ह डेटा वॉलपेपर / लाइव्ह एर्थ वॉलपेपर मधील सेटिंग्ज > अॅप्स > सिस्टीम अॅप्स > वर जाऊन नंतर परवानग्या टॅप करून लाइव्ह वॉलपेपर साठी Google च्या स्थान सेवेमधील प्रवेश चालू किंवा बंद करू शकता.</string>
 </resources>

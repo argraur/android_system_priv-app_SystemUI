@@ -1137,4 +1137,6 @@ Pokušajte ponovo za %2$d s."</string>
     <string name="kg_prompt_reason_device_admin">Administrator uređaja zaključao je uređaj</string>
     <string name="kg_prompt_reason_user_request">Uređaj je ručno zaključan</string>
     <string name="fingerprint_not_recognized">Nije prepoznat</string>
+    <string name="google_services_wallpaper_permission"><b>Omogućite Google animiranim pozadinama da reagiraju na vašu lokaciju</b> tako što će pristupiti Googleovoj usluzi lokacije.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Pristup Googleovoj usluzi lokacije za animirane pozadine možete uključiti ili isključiti tako što ćete dodirnuti stavku Dopuštenja do koje ćete doći na sljedeći način: Postavke > Aplikacije > Aplikacije sustava na dodatnom izborniku > Pozadine s podacima uživo/Animirane pozadine sa slikama Zemlje.</string>
 </resources>

@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">ഉപകരണത്തെ ഉപകരണ അഡ്മിനിസ്ട്രേറ്റർ ലോക്കുചെയ്തു</string>
     <string name="kg_prompt_reason_user_request">ഉപകരണം നേരിട്ട് ലോക്കുചെയ്തു</string>
     <string name="fingerprint_not_recognized">തിരിച്ചറിഞ്ഞില്ല</string>
+    <string name="google_services_wallpaper_permission">Google ലൊക്കേഷൻ സേവനം ആക്സസ്സുചെയ്യുക വഴി <b>നിങ്ങളുടെ ലൊക്കേഷനോട് പ്രതികരിക്കാൻ Google തത്സമയ വാൾപേപ്പറുകളെ അനുവദിക്കുക</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">ക്രമീകരണം > ആപ്‌സ് > ഓവർഫ്ലോ മെനുവിൽ നിന്നുള്ള സിസ്റ്റം ആപ്‌സ് > സജീവ ഡാറ്റ വാൾപേപ്പറുകൾ / തത്സമയ എർത്ത് വാൾപേപ്പറുകൾ എന്നതിലേക്ക് പോയിക്കൊണ്ടും അനുമതികൾ ടാപ്പുചെയ്തുകൊണ്ടും തത്സമയ വാൾപേപ്പറുകൾക്കുള്ള Google ലൊക്കേഷൻ സേവനത്തിലേക്കുള്ള ആക്സസ്സ് നിങ്ങൾക്ക് ഓണോ ഓഫോ ചെയ്യാവുന്നതാണ്.</string>
 </resources>

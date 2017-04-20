@@ -1137,4 +1137,6 @@ For more information, contact your admin."</string>
     <string name="kg_prompt_reason_device_admin">ອຸປະກອນຖືກລັອກໂດຍຜູ້ເບິ່ງແຍງລະບົບ</string>
     <string name="kg_prompt_reason_user_request">ອຸປະກອນຖືກສັ່ງໃຫ້ລັອກ</string>
     <string name="fingerprint_not_recognized">ບໍ່​ຈົດ​ຈຳ​ໄດ້</string>
+    <string name="google_services_wallpaper_permission"><b>ອະນຸຍາດໃຫ້ພາບພື້ນຫຼັງແບບສົດໆຂອງ Google ຕອບສະໜອງຕໍ່ສະຖານທີ່ຂອງທ່ານ</b> ໂດຍການເຂົ້າເຖິງບໍລິການສະຖານທີ່ຂອງ Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">ທ່ານສາມາດເປີດ ຫຼື ປິດການເຂົ້າເຖິງບໍລິການສະຖານທີ່ຂອງ Google ສຳລັບພາບພື້ນຫຼັງແບບສົດໆໄດ້ ໂດຍການໄປທີ່ການຕັ້ງຄ່າ > ແອັບ > ແອັບລະບົບ ຈາກເມນູຍ່ອຍ > ພາບພື້ນຫຼັງຂໍ້ມູນສົດ / ພາບພື້ນຫຼັງໂລກ, ຈາກນັ້ນແຕະໃສ່ທີ່ການອະນຸຍາດ.</string>
 </resources>

@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">ઉપકરણ વ્યવસ્થાપકે ઉપકરણ લૉક કર્યું</string>
     <string name="kg_prompt_reason_user_request">ઉપકરણ મેન્યુઅલી લૉક કર્યું હતું</string>
     <string name="fingerprint_not_recognized">ઓળખાયેલ નથી</string>
+    <string name="google_services_wallpaper_permission">Google ની સ્થાન સેવાઓને અ‍ૅક્સેસ કરીને <b>Google લાઇવ વૉલપેપર્સને તમારા સ્થાનનો જવાબ આપવાની મંજૂરી આપો</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">તમે ઓવરફ્લો મેનૂ > લાઇવ ડેટા વૉલપેપર્સ / લાઇવ અર્થ વૉલપેપર્સમાંથી સેટિંગ્સ > અ‍ૅપ્લિકેશનો > સિસ્ટમ અ‍ૅપ્લિકેશનો પર જઈને, પછી પરવાનગીઓ ટૅપ કરીને લાઇવ વૉલપેપર્સ માટે Google ની સ્થાન સેવાની અ‍ૅક્સેસ ચાલુ અથવા બંધ કરી શકો છો.</string>
 </resources>

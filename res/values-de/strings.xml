@@ -1136,4 +1136,6 @@ Versuche es in %2$d Sekunden erneut."</string>
     <string name="kg_prompt_reason_device_admin">Gerät von Geräteadministrator gesperrt</string>
     <string name="kg_prompt_reason_user_request">Gerät manuell gesperrt</string>
     <string name="fingerprint_not_recognized">Nicht erkannt</string>
+    <string name="google_services_wallpaper_permission"><b>Erlaube, dass Google Live-Hintergründe entsprechend deines Standorts angepasst werden</b>, indem der Standortdienst von Google genutzt wird.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Du kannst den Zugriff auf den Standortdienst von Google durch Live-Hintergründe ein- oder ausschalten, indem du im Überlaufmenü > \"Hintergründe mit Live-Daten\" oder \"Live-Hintergründe der Erde\" auswählst, dort \"Einstellungen\" > \"Apps\" > \"System-Apps\" aufrufst und auf \"Berechtigungen\" tippst.</string>
 </resources>

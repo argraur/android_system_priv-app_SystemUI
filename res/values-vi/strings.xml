@@ -1136,4 +1136,6 @@ Hãy thử lại sau %2$d giây."</string>
     <string name="kg_prompt_reason_device_admin">Quản trị viên thiết bị đã khóa thiết bị</string>
     <string name="kg_prompt_reason_user_request">Thiết bị đã bị khóa theo cách thủ công</string>
     <string name="fingerprint_not_recognized">Không nhận dạng được</string>
+    <string name="google_services_wallpaper_permission"><b>Cho phép hình nền động của Google phản hồi vị trí của bạn</b> bằng cách truy cập dịch vụ vị trí của Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Bạn có thể bật hoặc tắt quyền truy cập vào dịch vụ vị trí của Google bằng cách chuyển tới Cài đặt > Ứng dụng > Ứng dụng hệ thống từ menu mục bổ sung > Hình nền dữ liệu sống động / Hình nền Trái đất sống động, rồi nhấn vào Quyền.</string>
 </resources>

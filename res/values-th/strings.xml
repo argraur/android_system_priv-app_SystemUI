@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">ผู้ดูแลอุปกรณ์ล็อกอุปกรณ์ไว้</string>
     <string name="kg_prompt_reason_user_request">มีผู้ล็อกอุปกรณ์ด้วยตัวเอง</string>
     <string name="fingerprint_not_recognized">ไม่รู้จัก</string>
+    <string name="google_services_wallpaper_permission"><b>อนุญาตให้วอลเปเปอร์ภาพเคลื่อนไหวของ Google ตอบสนองสถานที่ของคุณ</b>โดยเข้าถึงบริการตำแหน่งของ Google ได้</string>
+    <string name="google_services_wallpaper_permission_dialog_text">คุณสามารถเปิดหรือปิดการเข้าถึงบริการตำแหน่งของ Google สำหรับวอลเปเปอร์ภาพเคลื่อนไหวได้โดยไปที่การตั้งค่า > แอป > แอประบบจากเมนูรายการเพิ่มเติม > วอลล์เปเปอร์ข้อมูลแบบเคลื่อนไหว / วอลเปเปอร์โลกแบบเคลื่อนไหว แล้วแตะ \"สิทธิ์\"</string>
 </resources>

@@ -1135,6 +1135,8 @@ VPN に接続しています。VPN はあなたのネットワーク アクテ�
     <string name="kg_prompt_reason_device_admin">端末管理アプリが端末をロックしました</string>
     <string name="kg_prompt_reason_user_request">端末は手動でロックされました</string>
     <string name="fingerprint_not_recognized">認識されませんでした</string>
+    <string name="google_services_wallpaper_permission"><b>現在地に合った壁紙を表示するために、</b>Google ライブ壁紙に Google の位置情報サービスへのアクセスを許可します。</string>
+    <string name="google_services_wallpaper_permission_dialog_text">ライブ壁紙による Google の位置情報サービスへのアクセスを ON または OFF に設定するには、[設定] > [アプリ] > オーバーフロー メニューの [システムアプリ] > [ライブデータ壁紙] または [ライブアース壁紙] に移動し、[権限] をタップします。</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
 </resources>

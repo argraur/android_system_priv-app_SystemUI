@@ -1137,4 +1137,6 @@ Prøv på nytt om %2$d sekunder."</string>
     <string name="kg_prompt_reason_device_admin">Enhetsadministratoren har låst enheten</string>
     <string name="kg_prompt_reason_user_request">Enheten ble låst manuelt</string>
     <string name="fingerprint_not_recognized">Ikke gjenkjent</string>
+    <string name="google_services_wallpaper_permission"><b>La Googles animerte bakgrunner reagere på stedet ditt</b> ved å gå inn på Googles posisjonstjenester.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Du kan slå tilgang til Googles posisjonstjenester på eller av ved å gå til Innstillinger > Apper > Systemapper fra overflytsmenyen > Direktedata-bakgrunner / Live Earth-bakgrunner, og så trykke på Tillatelser.</string>
 </resources>

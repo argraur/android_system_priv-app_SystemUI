@@ -962,6 +962,11 @@
     <public type="drawable" name="status_bar_notification_row_background_color" id="0x7f020335" />
     <public type="drawable" name="heads_up_notification_bg_pressed" id="0x7f020336" />
     <public type="drawable" name="forced_resizable_background" id="0x7f020337" />
+    <public type="drawable" name="halo" id="0x7f020338" />
+    <public type="drawable" name="ic_sysbar_opa_blue" id="0x7f020339" />
+    <public type="drawable" name="ic_sysbar_opa_green" id="0x7f02033a" />
+    <public type="drawable" name="ic_sysbar_opa_red" id="0x7f02033b" />
+    <public type="drawable" name="ic_sysbar_opa_yellow" id="0x7f02033c" />
     <public type="drawable" name="search_panel_scrim" id="0x7f0202db" />
     <public type="drawable" name="abc_action_bar_item_background_material" id="0x7f020001" />
     <public type="drawable" name="lb_action_bg" id="0x7f02014f" />
@@ -3391,6 +3396,8 @@
     <public type="string" name="high_temp_title" id="0x7f0f041a" />
     <public type="string" name="high_temp_notif_message" id="0x7f0f041b" />
     <public type="string" name="high_temp_dialog_message" id="0x7f0f041c" />
+    <public type="string" name="APKTOOL_DUMMY_41e" id="0x7f0f041e" />
+    <public type="string" name="APKTOOL_DUMMY_41f" id="0x7f0f041f" />
     <public type="string" name="car_lockscreen_disclaimer_title" id="0x7f0f0420" />
     <public type="string" name="car_lockscreen_disclaimer_text" id="0x7f0f0421" />
     <public type="string" name="pip_close" id="0x7f0f0422" />
@@ -3492,8 +3499,6 @@
     <public type="string" name="kg_prompt_reason_device_admin" id="0x7f0f0482" />
     <public type="string" name="kg_prompt_reason_user_request" id="0x7f0f0483" />
     <public type="string" name="fingerprint_not_recognized" id="0x7f0f0484" />
-    <public type="string" name="APKTOOL_DUMMY_41e" id="0x7f0f041e" />
-    <public type="string" name="APKTOOL_DUMMY_41f" id="0x7f0f041f" />
     <public type="string" name="status_bar_date_formatter" id="0x7f0f01ab" />
     <public type="string" name="toast_rotation_locked" id="0x7f0f041d" />
     <public type="dimen" name="appear_y_translation_start" id="0x7f100000" />
@@ -4180,6 +4185,19 @@
     <public type="dimen" name="password_dot_size" id="0x7f1002ad" />
     <public type="dimen" name="password_char_padding" id="0x7f1002ae" />
     <public type="dimen" name="date_owner_info_margin" id="0x7f1002af" />
+    <public type="dimen" name="halo_inner_radius" id="0x7f1002b0" />
+    <public type="dimen" name="halo_thickness" id="0x7f1002b1" />
+    <public type="dimen" name="halo_diameter" id="0x7f1002b2" />
+    <public type="dimen" name="opa_dot_diam" id="0x7f1002b3" />
+    <public type="dimen" name="opa_diamond_translation" id="0x7f1002b4" />
+    <public type="dimen" name="opa_line_y_translation" id="0x7f1002b5" />
+    <public type="dimen" name="opa_line_x_trans_ry" id="0x7f1002b6" />
+    <public type="dimen" name="opa_line_x_trans_bg" id="0x7f1002b7" />
+    <public type="dimen" name="opa_line_x_collapse_bg" id="0x7f1002b8" />
+    <public type="dimen" name="opa_line_x_collapse_ry" id="0x7f1002b9" />
+    <public type="dimen" name="opa_overshoot_translation" id="0x7f1002ba" />
+    <public type="dimen" name="opa_return_translation" id="0x7f1002bb" />
+    <public type="dimen" name="opa_rest_to_collapse" id="0x7f1002bc" />
     <public type="dimen" name="peek_height" id="0x7f100254" />
     <public type="dimen" name="notification_panel_min_height" id="0x7f100255" />
     <public type="dimen" name="panel_float" id="0x7f100256" />
@@ -4875,6 +4893,13 @@
     <public type="id" name="background_imageout" id="0x7f1202a1" />
     <public type="id" name="background_imagein" id="0x7f1202a2" />
     <public type="id" name="background_dim" id="0x7f1202a3" />
+    <public type="id" name="red" id="0x7f1202a4" />
+    <public type="id" name="blue" id="0x7f1202a5" />
+    <public type="id" name="green" id="0x7f1202a6" />
+    <public type="id" name="yellow" id="0x7f1202a7" />
+    <public type="id" name="white" id="0x7f1202a8" />
+    <public type="id" name="home_button" id="0x7f1202a9" />
+    <public type="id" name="halo" id="0x7f1202aa" />
     <public type="style" name="TextAppearance.LeanbackBase" id="0x7f130000" />
     <public type="style" name="TextAppearance.Leanback" id="0x7f130001" />
     <public type="style" name="TextAppearance.Leanback.Title" id="0x7f130002" />
@@ -5411,6 +5436,7 @@
     <public type="style" name="BouncerSecurityContainer" id="0x7f13022d" />
     <public type="style" name="PasswordTheme" id="0x7f13022e" />
     <public type="style" name="keyguard_presentation_theme" id="0x7f13022f" />
+    <public type="style" name="DotStyle" id="0x7f130230" />
     <public type="style" name="Platform.V11.AppCompat" id="0x7f1301aa" />
     <public type="style" name="Platform.V11.AppCompat.Light" id="0x7f1301ab" />
     <public type="style" name="Base.V11.Theme.AppCompat.Dialog" id="0x7f1301ac" />

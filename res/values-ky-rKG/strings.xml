@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">Түзмөк башкаргычы түзмөктү кулпулап койду</string>
     <string name="kg_prompt_reason_user_request">Түзмөк кол менен кулпуланды</string>
     <string name="fingerprint_not_recognized">Таанылган жок</string>
+    <string name="google_services_wallpaper_permission">"Google'дун Жайгашкан жерди аныктоо кызматын иштетсеңиз, "<b>жандуу тушкагаз жүргөн жериңизге жараша өзгөрүп турат</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"Google'дун Жайгашкан жерди аныктоо кызматын жандуу тушкагаздарда күйгүзүп же өчүрүү үчүн кошумча менюдан Жөндөөлөргө > Колдонмолорго > Тутум колдонмолоруна > Жандуу тушкагаздар: көрүнүштөр/Жандуу тушкагаздар/Жерге барып, андан кийин Уруксаттарды таптаңыз."</string>
 </resources>

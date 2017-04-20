@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">சாதன நிர்வாகி சாதனத்தைப் பூட்டியுள்ளார்</string>
     <string name="kg_prompt_reason_user_request">பயனர் சாதனத்தைப் பூட்டியுள்ளார்</string>
     <string name="fingerprint_not_recognized">அறியப்படவில்லை</string>
+    <string name="google_services_wallpaper_permission">Google இருப்பிடச் சேவையை அணுகுவதன் மூலம், <b>உங்கள் இருப்பிடத்திற்கு ஏற்ப, லைவ் வால்பேப்பர்களை வழங்க Googleஐ அனுமதிக்கவும்</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">கூடுதல் விருப்பங்கள் > லைவ் டேட்டா வால்பேப்பர்கள் / லைவ் எர்த் வால்பேப்பர்கள் என்பதிலிருந்து, அமைப்புகள் > பயன்பாடுகள் > சாதனப் பயன்பாடுகள் என்பதற்குச் சென்று, அனுமதிகளைத் தட்டுவதன் மூலம், லைவ் வால்பேப்பர்களுக்கான Google இருப்பிடச் சேவை அணுகலை இயக்கலாம் அல்லது முடக்கலாம்.</string>
 </resources>

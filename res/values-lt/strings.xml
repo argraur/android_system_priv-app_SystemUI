@@ -1137,6 +1137,8 @@ Bandykite dar kartą po %2$d sek."</string>
     <string name="kg_prompt_reason_device_admin">Įrenginio administratorius užrakino įrenginį</string>
     <string name="kg_prompt_reason_user_request">Įrenginys užrakintas neautomatiškai</string>
     <string name="fingerprint_not_recognized">Neatpažintas</string>
+    <string name="google_services_wallpaper_permission"><b>Leisti „Google“ sąveikiesiems fonams reaguoti į jūsų vietą</b> prisijungiant prie „Google“ vietovės paslaugos.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Sąveikiųjų fonų prieigą prie „Google“ vietovės paslaugos galite įjungti arba išjungti perpildymo meniu nuėję į „Nustatymai“ > „Programos“ > „Sistemos programos“ > „Sąveikieji duomenų fonai / Sąveikieji Žemės fonai“ ir palietę „Leidimai“.</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
 </resources>

@@ -1137,4 +1137,6 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="kg_prompt_reason_device_admin">"L'administrador ha bloquejat el dispositiu"</string>
     <string name="kg_prompt_reason_user_request">"El dispositiu s'ha bloquejat manualment"</string>
     <string name="fingerprint_not_recognized">"No s'ha reconegut"</string>
+    <string name="google_services_wallpaper_permission"><b>Permet que els fons de pantalla animats de Google es corresponguin amb la teva ubicació</b>" accedint al servei d'ubicació de Google."</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"Per activar o desactivar l'accés dels fons de pantalla animats al servei d'ubicació de Google, vés a Configuració > Aplicacions > Aplicacions del sistema des del menú addicional > Fons de pantalla animats amb dades / Fons de pantalla animats de la Terra i, a continuació, toca Permisos."</string>
 </resources>

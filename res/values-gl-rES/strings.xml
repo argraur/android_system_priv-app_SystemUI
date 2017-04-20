@@ -1136,4 +1136,6 @@ Téntao de novo en %2$d segundos."</string>
     <string name="kg_prompt_reason_device_admin">O administrador do dispositivo bloqueouno</string>
     <string name="kg_prompt_reason_user_request">O dispositivo bloqueouse manualmente</string>
     <string name="fingerprint_not_recognized">Non se recoñece</string>
+    <string name="google_services_wallpaper_permission"><b>Permite que os fondos de pantalla animados de Google respondan á túa localización</b> accedendo ao servizo de localización de Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Para activar ou desactivar o acceso ao servizo de localización de Google para os fondos de pantalla animados, accede a Configuración > Aplicacións > Aplicacións do sistema desde o menú de rebordamento > Fondos de pantalla animados de datos/Fondos de pantalla animados da Terra e, a continuación, toca Permisos.</string>
 </resources>

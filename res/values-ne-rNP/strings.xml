@@ -1136,4 +1136,6 @@
     <string name="kg_prompt_reason_device_admin">यन्त्रको प्रशासकले यन्त्रलाई लक गरेको छ</string>
     <string name="kg_prompt_reason_user_request">यन्त्रलाई म्यानुअल तरिकाले लक गरिएको थियो</string>
     <string name="fingerprint_not_recognized">चिनिएको छैन</string>
+    <string name="google_services_wallpaper_permission"><b>Google का लाइभ वालपेपरहरूलाई Google को स्थान सेवामाथि पहुँच राखेर तपाईँको स्थान अनुसार प्रतिक्रिया दिन अनुमति दिनुहोस्</b>।</string>
+    <string name="google_services_wallpaper_permission_dialog_text">तपाईँ ओभरफ्लोको मेनु > लाइभ डेटा सम्बन्धी वालपेपरहरू / लाइभ पृथ्वी सम्बन्धी वालपेपरहरूबाट सेटिङहरू > अनुप्रयोगहरू > प्रणालीका अनुप्रयोगहरूमा गई अनुमतिहरूमा ट्याप गरेर लाइभ वालपेपरहरूका लागि Google को स्थान सेवा माथिको पहुँचलाई सक्रिय वा निष्क्रिय पार्न सक्नुहुन्छ।</string>
 </resources>

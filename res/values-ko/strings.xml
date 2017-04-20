@@ -1136,6 +1136,8 @@ VPN에 연결된 상태이며, VPN에서 이메일, 앱, 웹사이트를 비롯�
     <string name="kg_prompt_reason_device_admin">기기 관리자가 기기를 잠금 설정함</string>
     <string name="kg_prompt_reason_user_request">기기가 수동으로 잠금 설정됨</string>
     <string name="fingerprint_not_recognized">인식할 수 없습니다.</string>
+    <string name="google_services_wallpaper_permission"><b>Google 라이브 배경화면이 Google 위치 서비스에 액세스하여</b> 내 위치를 반영하도록 허용합니다.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">설정 > 앱 > 더보기 메뉴의 시스템 앱 > 라이브 데이터 배경화면 / 라이브 지구 배경화면으로 이동한 다음 권한을 탭하여 Google 라이브 배경화면의 위치 서비스 액세스를 사용 설정 또는 사용 중지할 수 있습니다.</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
 </resources>

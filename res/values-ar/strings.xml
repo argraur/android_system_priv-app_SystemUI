@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">تم حظر الجهاز بواسطة المسؤول</string>
     <string name="kg_prompt_reason_user_request">تم حظر الجهاز يدويًا</string>
     <string name="fingerprint_not_recognized">لم يتم التعرف عليها</string>
+    <string name="google_services_wallpaper_permission">‏<b>يمكنك السماح لخلفيات Google المتحركة بالاستجابة لموقعك</b> من خلال الوصول إلى خدمة المواقع من Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">‏يمكنك تشغيل أو إيقاف إمكانية الوصول إلى خدمة الموقع من Google للخلفيات المتحركة، وذلك من خلال الانتقال إلى الإعدادات > التطبيقات > تطبيقات النظام من القائمة الكاملة > خلفيات البيانات المتحركة / الخلفيات المتحركة لكوكب الأرض، والنقر بعد ذلك على \"الأذونات\".</string>
 </resources>

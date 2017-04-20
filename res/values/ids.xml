@@ -627,4 +627,11 @@
     <item type="id" name="background_imageout">false</item>
     <item type="id" name="background_imagein">false</item>
     <item type="id" name="background_dim">false</item>
+    <item type="id" name="red">false</item>
+    <item type="id" name="blue">false</item>
+    <item type="id" name="green">false</item>
+    <item type="id" name="yellow">false</item>
+    <item type="id" name="white">false</item>
+    <item type="id" name="home_button">false</item>
+    <item type="id" name="halo">false</item>
 </resources>

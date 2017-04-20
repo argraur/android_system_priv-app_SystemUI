@@ -1136,4 +1136,6 @@ Saiatu berriro %2$d segundo barru."</string>
     <string name="kg_prompt_reason_device_admin">Gailua blokeatu du administratzaileak</string>
     <string name="kg_prompt_reason_user_request">Gailua blokeatu da eskuz</string>
     <string name="fingerprint_not_recognized">Ez da ezagutzen</string>
+    <string name="google_services_wallpaper_permission"><b>Baimendu Google Horma-paper dinamikoak kokapenaren arabera doitzea</b> Google-ren kokapen-zerbitzuak atzituta.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Horma-paper dinamikoei Google-ren kokapen-zerbitzuetarako sarbidea emateko edo kentzeko, joan Ezarpenak > Aplikazioak > Sistemaren aplikazioak (menuaren luzapenean dago) > Datuen horma-paper dinamikoak / Lurraren horma-paper dinamikoak atalera eta, bertan, sakatu Baimenak.</string>
 </resources>

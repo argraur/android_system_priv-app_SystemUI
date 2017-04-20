@@ -1136,4 +1136,6 @@
     <string name="kg_prompt_reason_device_admin">Адміністратор заблокував пристрій</string>
     <string name="kg_prompt_reason_user_request">Пристрій заблоковано вручну</string>
     <string name="fingerprint_not_recognized">Не розпізнано</string>
+    <string name="google_services_wallpaper_permission">Увімкніть службу локації Google, щоб <b>анімовані фонові малюнки Google змінювались залежно від вашого місцезнаходження</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Щоб увімкнути чи вимкнути службу локації Google для анімованих фонових малюнків, перейдіть у меню \"Налаштування\" > \"Додатки\" > \"Системні додатки\" в додатковому меню > \"Анімовані фонові малюнки з даними\" або \"Анімовані фонові малюнки із зображенням Землі\" й торкніться опції \"Дозволи\".</string>
 </resources>

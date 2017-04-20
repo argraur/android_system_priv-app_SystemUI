@@ -1135,4 +1135,6 @@
     <string name="kg_prompt_reason_device_admin">მოწყობილობა ადმინისტრატორის მიერ ჩაიკეტა</string>
     <string name="kg_prompt_reason_user_request">მოწყობილობა ხელით ჩაიკეტა</string>
     <string name="fingerprint_not_recognized">არ არის ამოცნობილი</string>
+    <string name="google_services_wallpaper_permission">Google-ის მდებარეობის სერვისზე წვდომის მეშვეობით, <b>Google-ის ცოცხალი ფონებისთვის თქვენს მდებარეობაზე რეაგირების დაშვება</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">ცოცხალი ფონებისთვის Google-ის მდებარეობის სერვისზე წვდომის ჩასართავად ან გამოსართავად, გადადით აქ: პარამეტრები > აპები > სისტემის აპები (გადავსების მენიუდან) > პირდაპირი მონაცემების ფონები / მოძრავი დედამიწის ფონები, ხოლო შემდეგ, შეხებით აირჩიეთ ნებართვები.</string>
 </resources>

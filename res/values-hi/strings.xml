@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">डिवाइस व्यवस्थापक ने डिवाइस को लॉक कर दिया है</string>
     <string name="kg_prompt_reason_user_request">डिवाइस को मैन्युअल रूप से लॉक किया गया था</string>
     <string name="fingerprint_not_recognized">पहचाना नहीं गया</string>
+    <string name="google_services_wallpaper_permission"><b>Google लाइव वॉलपेपर को Google की स्थान सेवा को एक्सेस करके</b> आपके स्थान का जवाब देने दें.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">आप सेटिंग > ऐप्लिकेशन > ओवरफ़्लो मेनू से सिस्टम ऐप्लिकेशन > लाइव डेटा वॉलपेपर / पृथ्वी के जीवंत वॉलपेपर पर जाकर, फिर अनुमतियां टैप करके लाइव वॉलपेपर के लिए Google की स्थान सेवा की एक्सेस को चालू या बंद कर सकते हैं.</string>
 </resources>

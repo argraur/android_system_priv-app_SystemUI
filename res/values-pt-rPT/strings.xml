@@ -1137,4 +1137,6 @@ Tente novamente dentro de %2$d segundos."</string>
     <string name="kg_prompt_reason_device_admin">O administrador do dispositivo bloqueou o dispositivo</string>
     <string name="kg_prompt_reason_user_request">O dispositivo foi bloqueado manualmente</string>
     <string name="fingerprint_not_recognized">Não reconhecido</string>
+    <string name="google_services_wallpaper_permission"><b>Permita que as imagens de fundo dinâmicas da Google respondam à sua localização</b> ao aceder ao serviço de localização da Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Para ativar ou desativar o acesso ao serviço de localização da Google para as imagens de fundo dinâmicas, aceda a Definições > Aplicações > Aplicações do sistema no menu adicional > Imagens de fundo dinâmicas de dados/Imagens de fundo dinâmicas da Terra e, em seguida, toque em Autorizações.</string>
 </resources>

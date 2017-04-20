@@ -1156,4 +1156,6 @@ Föŕ ḿöŕé îñƒöŕḿåţîöñ, çöñţåçţ ýöûŕ åðḿîñ. on
     <string name="kg_prompt_reason_device_admin">[ÐéVîçé åðḿîñîšţŕåţöŕ ļöçķéð ðéVîçé one two three four]</string>
     <string name="kg_prompt_reason_user_request">[ÐéVîçé ŵåš ļöçķéð ḿåñûåļļý one two three four]</string>
     <string name="fingerprint_not_recognized">[Ñöţ ŕéçöĝñîžéð one two three]</string>
+    <string name="google_services_wallpaper_permission">[<b>Åļļöŵ Ĝööĝļé ĻîVé ŵåļļþåþéŕš ţö ŕéšþöñð ţö ýöûŕ ļöçåţîöñ</b> ɓý åççéššîñĝ Ĝööĝļé’š ļöçåţîöñ šéŕVîçé. one two three four five six seven eight nine ten]</string>
+    <string name="google_services_wallpaper_permission_dialog_text">[Ýöû çåñ ţûŕñ åççéšš ţö Ĝööĝļé’š ļöçåţîöñ šéŕVîçé ƒöŕ ĻîVé ŵåļļþåþéŕš öñ öŕ öƒƒ ɓý ĝöîñĝ ţö Šéţţîñĝš > Åþþš > Šýšţéḿ Åþþš ƒŕöḿ ţĥé öVéŕƒļöŵ ḿéñû > ĻîVé ðåţå ŵåļļþåþéŕš / ĻîVé Éåŕţĥ Ŵåļļþåþéŕš, ţĥéñ ţåþ Þéŕḿîššîöñš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
 </resources>

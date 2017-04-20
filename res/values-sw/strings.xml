@@ -1137,4 +1137,6 @@ Pindi simu yako itakapopoa, itaendelea kufanya kazi kama kawaida."</string>
     <string name="kg_prompt_reason_device_admin">Msimamizi wa kifaa amekifunga</string>
     <string name="kg_prompt_reason_user_request">Umefunga kifaa mwenyewe</string>
     <string name="fingerprint_not_recognized">Haitambuliwi</string>
+    <string name="google_services_wallpaper_permission"><b>Ruhusu Mandhari Hai ya Google itumie vipengee vya mahali ulipo</b> kwa kufikia huduma ya Google ya kutambua mahali.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Unaweza kuwasha au kuzima ufikiaji wa huduma ya Google ya kutambua mahali katika Mandhari hai kwa kwenda kwenye Mipangilio > Programu > Programu za Mfumo kutoka menyu ya vipengee vya ziada > Mandhari hai ya data / Mandhari Hai ya Dunia, kisha ugonge Ruhusa.</string>
 </resources>

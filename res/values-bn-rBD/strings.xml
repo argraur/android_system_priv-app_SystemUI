@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">ডিভাইস প্রশাসক ডিভাইসটিকে লক করেছেন</string>
     <string name="kg_prompt_reason_user_request">ডিভাইসটিকে নিজের হাতে লক করা হয়েছে</string>
     <string name="fingerprint_not_recognized">স্বীকৃত নয়</string>
+    <string name="google_services_wallpaper_permission">Google এর অবস্থান পরিষেবায় অ্যাক্সেস করে <b>আপনার অবস্থানে সাড়া দিতে Google লাইভ ওয়ালপেপারগুলিকে অনুমতি দিন</b>।</string>
+    <string name="google_services_wallpaper_permission_dialog_text">সেটিংস > অ্যাপ্লিকেশান > ওভারফ্লো মেনু থেকে সিস্টেমের অ্যাপ্লিকেশান > লাইভ ডেটা ওয়ালপেপার / লাইভ আর্থ ওয়ালপেপার, -এ গিয়ে লাইভ ওয়ালপেপারের জন্য আপনি Google অবস্থান পরিষেবার অ্যাক্সেস চালু বা বন্ধ করতে পারেন তারপরে অনুমতি আলতো চাপুন।</string>
 </resources>

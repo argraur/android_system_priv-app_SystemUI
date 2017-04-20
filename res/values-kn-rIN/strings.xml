@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">ಸಾಧನ ನಿರ್ವಾಹಕರು ಸಾಧನವನ್ನು ಲಾಕ್‌ ಮಾಡಿದ್ದಾರೆ</string>
     <string name="kg_prompt_reason_user_request">ಸಾಧನವನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಲಾಕ್‌ ಮಾಡಲಾಗಿದೆ</string>
     <string name="fingerprint_not_recognized">ಗುರುತಿಸಲಾಗಿಲ್ಲ</string>
+    <string name="google_services_wallpaper_permission">Google ನ ಸ್ಥಳ ಸೇವೆ ಪ್ರವೇಶಿಸುವಿಕೆಯ ಮೂಲಕ <b>ನಿಮ್ಮ ಸ್ಥಳಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸಲು Google ಲೈವ್ ವಾಲ್‌ಪೇಪರ್‌ಗಳನ್ನು ಅನುಮತಿಸಿ</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">ಲೈವ್ ವಾಲ್‌ಪೇಪರ್‌ಗಳಿಗೆ Google ನ ಸ್ಥಳ ಸೇವೆಗೆ ನೀವು ಪ್ರವೇಶವನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಅಪ್ಲಿಕೇಶನ್‌ಗಳು > ಓವರ್‌ಫ್ಲೋ ಮೆನುನಿಂದ ಸಿಸ್ಟಂ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು > ಲೈವ್ ಡೇಟಾ ವಾಲ್‌ಪೇಪರ್‌ಗಳು / ಲೈವ್ ಅರ್ಥ್ ವಾಲ್‌ಪೇಪರ್‌ಗಳಿಗೆ ಹೋಗಿ, ನಂತರ ಅನುಮತಿಗಳನ್ನು ಟ್ಯಾಪ್ ಮಾಡುವ ಮೂಲಕ ಆನ್ ಅಥವಾ ಆಫ್ ಮಾಡಬಹುದು.</string>
 </resources>

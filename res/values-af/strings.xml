@@ -1137,4 +1137,6 @@ Probeer weer oor %2$d sekondes."</string>
     <string name="kg_prompt_reason_device_admin">Toesteladministrateur het toestel gesluit</string>
     <string name="kg_prompt_reason_user_request">Toestel is handmatig gesluit</string>
     <string name="fingerprint_not_recognized">Nie herken nie</string>
+    <string name="google_services_wallpaper_permission"><b>Stel Google se aktiewe muurpapiere in staat om op jou ligging te reageer</b> deur by Google se liggingdiens in te gaan.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Jy kan toegang tot Google se liggingdiens vir aktiewe muurpapiere aan- of afskakel deur te gaan na Instellings > Programme > Stelselprogramme van die oorvloeikieslys af > Aktiewe data-muurpapiere / Aktiewe aarde-muurpapiere, en dan op Toestemmings te tik.</string>
 </resources>

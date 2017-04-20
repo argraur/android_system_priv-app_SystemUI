@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">Администратор уређаја је закључао уређај</string>
     <string name="kg_prompt_reason_user_request">Уређај је ручно закључан</string>
     <string name="fingerprint_not_recognized">Није препознат</string>
+    <string name="google_services_wallpaper_permission"><b>Дозволите Google анимираним позадинама да се ускладе са вашом локацијом</b> путем приступа Google услузи локације.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Приступ Google услузи локације за анимиране позадине можете да укључите и искључите ако одете у Подешавања > Апликације > Системске апликације у преклопном менију > Анимиране позадине са подацима/анимиране Earth позадине па додирнете Дозволе.</string>
 </resources>

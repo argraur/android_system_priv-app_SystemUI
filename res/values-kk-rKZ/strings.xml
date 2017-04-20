@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">Құрылғы әкімшісі құрылғыны құлыптады</string>
     <string name="kg_prompt_reason_user_request">Құрылғы қолмен құлыпталды</string>
     <string name="fingerprint_not_recognized">Анықталмаған</string>
+    <string name="google_services_wallpaper_permission">Google орынды анықтау қызметіне кіріп, <b>Google анимациялық фонының орналасқан орныңызға байланысты өзгеріп тұруына рұқсат етіңіз</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">\"Қосымша мәзір > Анимациялық фон / Анимациялық \"Жер планетасы\" тұсқағазы\" ішінен \"Параметрлер > Қолданбалар > Жүйе қолданбалары\" тармағына өтіп, анимациялық фондар үшін Google орынды анықтау қызметін қосуға не өшіруге болады.</string>
 </resources>

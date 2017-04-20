@@ -1137,4 +1137,6 @@ Prøv igen om %2$d sekunder."</string>
     <string name="kg_prompt_reason_device_admin">Enhedsadministratoren har låst enheden</string>
     <string name="kg_prompt_reason_user_request">Enheden blev låst manuelt</string>
     <string name="fingerprint_not_recognized">Ikke genkendt</string>
+    <string name="google_services_wallpaper_permission"><b>Tillad, at Googles Animerede baggrunde reagere på din placering</b>, ved at give adgang til Googles placeringstjeneste.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Du kan aktivere eller deaktivere adgang til Googles placeringstjeneste for Animerede baggrunde ved at gå til Indstillinger > Apps > Systemapps i prikmenuen > Animerede baggrunde, der indeholder data/Animerede baggrunde med billeder af jorden. Her trykker du på Tilladelser.</string>
 </resources>

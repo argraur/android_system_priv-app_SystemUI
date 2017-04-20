@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_helpPackageNameKey" />
-    <string name="config_helpPackageNameValue" />
-    <string name="config_helpIntentExtraKey" />
-    <string name="config_helpIntentNameKey" />
-    <string name="config_feedbackIntentExtraKey" />
-    <string name="config_feedbackIntentNameKey" />
+    <string name="config_helpPackageNameKey">genie-eng:app_pkg_name</string>
+    <string name="config_helpPackageNameValue">com.google.android.settings.gphone</string>
+    <string name="config_helpIntentExtraKey">EXTRA_PSD_KEYS</string>
+    <string name="config_helpIntentNameKey">EXTRA_PSD_VALUES</string>
+    <string name="config_feedbackIntentExtraKey">EXTRA_FEEDBACK_PSD_KEYS</string>
+    <string name="config_feedbackIntentNameKey">EXTRA_FEEDBACK_PSD_VALUES</string>
     <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -417,7 +417,7 @@
     <string name="v7_preference_on">ON</string>
     <string name="v7_preference_off">OFF</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane</string>
+    <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,custom(com.google.android.gms/.nearby.discovery.ui.DiscoveryTileService)</string>
     <string name="quick_settings_tiles_stock">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location,hotspot,inversion,saver,work,cast,night</string>
     <string name="quick_settings_tiles">default</string>
     <string name="quick_settings_tiles_retail_mode">cell,battery,dnd,flashlight,rotation,location</string>
@@ -1123,6 +1123,8 @@ For more information, contact your admin."</string>
     <string name="high_temp_dialog_message">"Your phone will automatically try to cool down. You can still use your phone, but it may run slower.
 
 Once your phone has cooled down, it will run normally."</string>
+    <item type="string" name="APKTOOL_DUMMY_41e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41f">false</item>
     <string name="car_lockscreen_disclaimer_title">Drive safely</string>
     <string name="car_lockscreen_disclaimer_text">Stay fully aware of driving conditions and always obey applicable laws. Directions may be inaccurate, incomplete, dangerous, not suitable, prohibited, or involve crossing administrative areas. Business information may also be inaccurate or incomplete. Data is not real-time, and location accuracy cannot be guaranteed. Do not handle your mobile device or use apps not intended for Android Auto while driving.</string>
     <string name="pip_close">Close PIP</string>
@@ -1233,6 +1235,6 @@ Try again in %2$d seconds."</string>
     <string name="kg_prompt_reason_device_admin">Device administrator locked device</string>
     <string name="kg_prompt_reason_user_request">Device was locked manually</string>
     <string name="fingerprint_not_recognized">Not recognized</string>
-    <item type="string" name="APKTOOL_DUMMY_41e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_41f">false</item>
+    <string name="google_services_wallpaper_permission"><b>Allow Google Live wallpapers to respond to your location</b> by accessing Google’s location service.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">You can turn access to Google’s location service for Live wallpapers on or off by going to Settings > Apps > System Apps from the overflow menu > Live data wallpapers / Live Earth Wallpapers, then tap Permissions.</string>
 </resources>

@@ -1136,4 +1136,6 @@
     <string name="kg_prompt_reason_device_admin">裝置管理員已鎖定裝置</string>
     <string name="kg_prompt_reason_user_request">已手動鎖定裝置</string>
     <string name="fingerprint_not_recognized">未能辨別</string>
+    <string name="google_services_wallpaper_permission"><b>允許 Google 動態桌布存取 Google 位置服務，以回應您的所在位置</b>。</string>
+    <string name="google_services_wallpaper_permission_dialog_text">您可以在展開式選單 >「動態資料桌布/動態地球桌布」中前往「設定」>「應用程式」>「系統應用程式」，然後輕按 [權限]，以開啟或關閉「動態桌布」的 Google 位置服務存取權。</string>
 </resources>

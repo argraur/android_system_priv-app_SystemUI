@@ -1137,4 +1137,6 @@ Försök igen om %2$d sekunder."</string>
     <string name="kg_prompt_reason_device_admin">Enhetsadministratören har låst enheten</string>
     <string name="kg_prompt_reason_user_request">Enheten har låsts manuellt</string>
     <string name="fingerprint_not_recognized">Identifierades inte</string>
+    <string name="google_services_wallpaper_permission"><b>Låt Googles levande bakgrund ändras utifrån var du är</b> genom att ge funktionen tillgång till Googles platstjänst.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Du kan aktivera eller inaktivera tillgången till Googles platstjänst för funktionen Levande bakgrund genom att öppna Inställningar > Appar > Systemappar under Fler menyalternativ > Levande bakgrunder – data eller Levande bakgrunder – Earth och trycka på Behörigheter.</string>
 </resources>

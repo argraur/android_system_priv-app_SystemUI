@@ -1136,4 +1136,6 @@ După ce se răcește, telefonul va funcționa normal."</string>
     <string name="kg_prompt_reason_device_admin">Administratorul dispozitivului a blocat dispozitivul</string>
     <string name="kg_prompt_reason_user_request">Dispozitivul a fost blocat manual</string>
     <string name="fingerprint_not_recognized">Nu este recunoscută</string>
+    <string name="google_services_wallpaper_permission"><b>Permiteți ca imaginile de fundal live Google să se adapteze la locația dvs.</b> accesând serviciul de localizare Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Puteți să activați sau să dezactivați accesul Imaginilor de fundal live la serviciul de localizare Google accesând Setări > Aplicații > Aplicații de sistem din meniul suplimentar > Imagini de fundal cu date live/Imagini de fundal live cu Pământul, apoi atingând Permisiuni.</string>
 </resources>

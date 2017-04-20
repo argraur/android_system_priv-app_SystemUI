@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">سرپرست دستگاه آن را قفل کرده است</string>
     <string name="kg_prompt_reason_user_request">دستگاه به‌صورت دستی قفل شده است</string>
     <string name="fingerprint_not_recognized">شناخته نشد</string>
+    <string name="google_services_wallpaper_permission">‏به کاغذدیواری‌های پویای Google امکان دهید با دسترسی به سرویس مکان Google ‏<b>به مکان شما پاسخ دهند</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">‏می‌توانید با رفتن (از منوی لبریزشده) به «تنظیمات > برنامه‌ها > برنامه‌های سیستم > کاغذدیواری‌های داده‌های زنده / کاغذدیواری‌های تصاویر زنده از زمین، سپس ضربه‌ زدن روی «مجوزها»، دسترسی به سرویس مکان Google را برای کاغذدیواری‌های پویا روشن یا خاموش کنید.</string>
 </resources>

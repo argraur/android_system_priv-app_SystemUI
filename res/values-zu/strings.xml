@@ -1137,4 +1137,6 @@ Zama futhi emasekhondini angu-%2$d."</string>
     <string name="kg_prompt_reason_device_admin">Umlawuli wedivayisi ukhiye idivayisi</string>
     <string name="kg_prompt_reason_user_request">Idivayisi ikhiywe ngokwenza</string>
     <string name="fingerprint_not_recognized">Akubonwa</string>
+    <string name="google_services_wallpaper_permission"><b>Vumela izithombe zangemuva ze-Google ukuthi ziphendule kundawo yakho</b> ngokufinyelela kusevisi yendawo ye-Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Ungavula noma uvale ukufinyelela kusevisi yendawo ye-Google kuzithombe zangemuva ngokuya kuzilungiselelo > Izinhlelo zokusebenza > Izinhlelo zokusebenza zesistimu kusukela kumenyu yokugeleza kakhulu > Idatha ebukhoma yezithombe zangemuva / Izithombe zangemuva ze-Earth ebukhoma, bese uthepha Izimvume.</string>
 </resources>

@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">စက်ပစ္စည်းစီမံခန့်ခွဲသူသည် စက်ပစ္စည်းကို လော့ခ်ချထားသည်</string>
     <string name="kg_prompt_reason_user_request">စက်ပစ္စည်းကို ကိုယ်တိုင်ကိုယ်ကျ လော့ခ်ချထားခဲ့သည်</string>
     <string name="fingerprint_not_recognized">အသိအမှတ်မပြုပါ</string>
+    <string name="google_services_wallpaper_permission">Google တည်နေရာဝန်ဆောင်မှုကို အသုံးပြုပြီး <b>Google သက်ဝင်နောက်ခံပုံများကိုသင်၏တည်နေရာအပေါ် တုန့်ပြန်ခွင့်ပြုပါ</b>။</string>
+    <string name="google_services_wallpaper_permission_dialog_text">သက်ဝင်နောက်ခံများကို ဖွင့်ရန် သို့မဟုတ် ပိတ်ရန်အတွက် Google ၏ တည်နေရာဝန်ဆောင်မှုကို ဖွင့်နိုင်ပါသည်။ ယင်းသို့ပြုလုပ်ရန်အတွက် ဆက်တင်များ> အက်ပ်များ> အက်ပ်စနစ်များကို မီနူးအပို> သက်ဝင်ဒေတာ နောက်ခံများ/ သက်ဝင်ကမ္ဘာနောက်ခံများ သို့သွားပါ၊ ၎င်းနောက် ခွင့်ပြချက်များကို တို့ပါ။</string>
 </resources>

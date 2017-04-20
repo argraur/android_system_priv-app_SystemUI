@@ -1137,4 +1137,6 @@ Spróbuj ponownie za %2$d s."</string>
     <string name="kg_prompt_reason_device_admin">Urządzenie zostało zablokowane przez administratora</string>
     <string name="kg_prompt_reason_user_request">Urządzenie zostało zablokowane ręcznie</string>
     <string name="fingerprint_not_recognized">Nie rozpoznano odcisku palca.</string>
+    <string name="google_services_wallpaper_permission"><b>Zezwalaj na dopasowanie animowanych tapet Google do Twojej lokalizacji</b> na podstawie usługi lokalizacyjnej Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Aby włączyć lub wyłączyć dostęp animowanych tapet Google do usługi lokalizacyjnej, wybierz w menu rozszerzonym Ustawienia > Aplikacje > Aplikacje systemowe > Tapety Dane w ruchu / Tapety Ziemia w ruchu, a następnie kliknij Uprawnienia.</string>
 </resources>

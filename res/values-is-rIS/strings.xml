@@ -1137,4 +1137,6 @@ Reyndu aftur eftir %2$d sekúndur."</string>
     <string name="kg_prompt_reason_device_admin">Stjórnandi hefur læst tækinu</string>
     <string name="kg_prompt_reason_user_request">Tækinu var læst handvirkt</string>
     <string name="fingerprint_not_recognized">Þekktist ekki</string>
+    <string name="google_services_wallpaper_permission"><b>Leyfa kviku veggfóðri Google að bregðast við staðsetningu þinni</b> með því að fá aðgang að staðsetningarþjónustu Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Þú getur slökkt og kveikt á aðgangi kvikra veggfóðra að staðsetningarþjónustu Google með því að fara í „Stillingar > Forrit > Kerfisforrit“ úr aukavalmyndinni > „Kvik gagnaveggfóður / Kvik veggfóður af jörðinni“ og ýta á „Heimildir“.</string>
 </resources>

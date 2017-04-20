@@ -1136,4 +1136,6 @@ Zkuste to znovu za %2$d s."</string>
     <string name="kg_prompt_reason_device_admin">Správce zařízení toto zařízení uzamkl</string>
     <string name="kg_prompt_reason_user_request">Zařízení bylo ručně uzamčeno</string>
     <string name="fingerprint_not_recognized">Nerozpoznáno</string>
+    <string name="google_services_wallpaper_permission"><b>Povolte živým tapetám Google přístup ke službě určování polohy Google</b>, aby mohly reagovat na vaši polohu.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Přístup ke službě určování polohy Google živým tapetám povolíte tak, že v rozbalovací nabídce přejdete na Nastavení > Aplikace > Systémové aplikace > Živé tapety – data / Živé tapety – Země a poté klepnete na Oprávnění.</string>
 </resources>

@@ -1136,4 +1136,6 @@ Proovige %2$d sekundi pärast uuesti."</string>
     <string name="kg_prompt_reason_device_admin">Seadme administraator lukustas seadme</string>
     <string name="kg_prompt_reason_user_request">Seade lukustati käsitsi</string>
     <string name="fingerprint_not_recognized">Ei tuvastatud</string>
+    <string name="google_services_wallpaper_permission"><b>"Lubage Google'i dünaamilistel taustapiltidel reageerida teie asukohale"</b>", pääsedes juurde Google'i asukohateenustele."</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"Saate dünaamiliste taustapiltide jaoks juurdepääsu Google'i asukohateenusele sisse või välja lülitada, tehes menüüs Ületäitemenüü > Reaalajas andmete taustapildid / Reaalajas Maa taustapildid valikud Seaded > Rakendused > Süsteemirakendused ja puudutades siis valikut Load."</string>
 </resources>

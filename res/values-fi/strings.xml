@@ -1137,4 +1137,6 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
     <string name="kg_prompt_reason_device_admin">Laitteen järjestelmänvalvoja on lukinnut laitteen.</string>
     <string name="kg_prompt_reason_user_request">Laite lukittiin manuaalisesti.</string>
     <string name="fingerprint_not_recognized">Ei tunnistettu</string>
+    <string name="google_services_wallpaper_permission"><b>Anna Googlen Live-taustakuvien käyttää sijaintiasi</b> Googlen sijaintipalvelun kautta.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Jos haluat ottaa Googlen sijaintipalvelun käyttöön tai pois käytöstä Live-taustakuvissa, valitse Asetukset > Sovellukset > Järjestelmäsovellukset (ylivuotovalikosta) > Live Data ‑taustakuvat / Live Earth ‑taustakuvat ja kosketa Käyttöluvat.</string>
 </resources>

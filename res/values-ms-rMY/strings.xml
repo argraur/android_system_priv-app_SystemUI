@@ -1137,4 +1137,6 @@ Cuba lagi dalam %2$d saat."</string>
     <string name="kg_prompt_reason_device_admin">Pentadbir peranti mengunci peranti</string>
     <string name="kg_prompt_reason_user_request">Peranti telah dikunci secara manual</string>
     <string name="fingerprint_not_recognized">Tidak dicam</string>
+    <string name="google_services_wallpaper_permission"><b>Benarkan kertas dinding Langsung Google bertindak balas dengan lokasi anda</b> dengan mengakses perkhidmatan lokasi Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Anda boleh menghidupkan atau mematikan perkhidmatan lokasi Google untuk kertas dinding Langsung dengan melawati Tetapan > Apl > Apl Sistem daripada menu limpahan > Kertas dinding data langsung / Kertas Dinding Bumi Langsung, kemudian ketik Kebenaran.</string>
 </resources>

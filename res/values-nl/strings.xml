@@ -1137,4 +1137,6 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="kg_prompt_reason_device_admin">Apparaatbeheerder heeft apparaat vergrendeld</string>
     <string name="kg_prompt_reason_user_request">Apparaat is handmatig vergrendeld</string>
     <string name="fingerprint_not_recognized">Niet herkend</string>
+    <string name="google_services_wallpaper_permission"><b>Toestaan dat interactieve achtergronden van Google reageren op je locatie</b> door middel van toegang tot de locatieservice van Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Je kunt toegang tot de locatieservice van Google in- of uitschakelen voor interactieve achtergronden. Ga hiervoor naar Instellingen > Apps > Systeemapps in het overloopmenu > Interactieve achtergronden op basis van gegevens/Interactieve achtergronden van de aarde en tik vervolgens op Rechten.</string>
 </resources>

@@ -1137,6 +1137,8 @@ Próbálja újra %2$d másodperc múlva."</string>
     <string name="kg_prompt_reason_device_admin">Az eszközadminisztrátor lezárta az eszközt</string>
     <string name="kg_prompt_reason_user_request">Az eszközt manuálisan lezárták</string>
     <string name="fingerprint_not_recognized">Nem sikerült felismerni</string>
+    <string name="google_services_wallpaper_permission"><b>Engedélyezheti, hogy a Google élő háttérképei tükrözzék aktuális tartózkodási helyét</b> a Google helyszolgáltatásainak igénybevételével.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">A következő helyen engedélyezheti vagy tilthatja le az élő háttérképek hozzáférését a Google helyszolgáltatásaihoz: Beállítások > Alkalmazások > Rendszeralkalmazások (a további elemeket tartalmazó menüben) > Élő adatokon alapuló háttérképek / Élő Earth-háttérképek, itt pedig koppintson az Engedélyek lehetőségre.</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
 </resources>

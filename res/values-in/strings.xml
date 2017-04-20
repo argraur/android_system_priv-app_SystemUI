@@ -1137,4 +1137,6 @@ Coba lagi dalam %3$d detik."</string>
     <string name="kg_prompt_reason_device_admin">Perangkat dikunci oleh administrator</string>
     <string name="kg_prompt_reason_user_request">Perangkat dikunci secara manual</string>
     <string name="fingerprint_not_recognized">Tidak dikenali</string>
+    <string name="google_services_wallpaper_permission"><b>Izinkan Wallpaper animasi Google merespons lokasi Anda</b> dengan mengakses layanan lokasi Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Anda dapat mengaktifkan atau menonaktifkan akses ke layanan lokasi Google untuk Wallpaper animasi dengan membuka Setelan > Aplikasi > Aplikasi Sistem dari menu luapan > Wallpaper animasi data / Wallpaper Animasi Bumi, lalu sentuh Izin.</string>
 </resources>

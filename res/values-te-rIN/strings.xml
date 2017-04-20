@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">పరికర నిర్వాహకులు పరికరాన్ని లాక్ చేసారు</string>
     <string name="kg_prompt_reason_user_request">పరికరం మాన్యువల్‌గా లాక్ చేయబడింది</string>
     <string name="fingerprint_not_recognized">గుర్తించలేదు</string>
+    <string name="google_services_wallpaper_permission">Google స్థాన సేవను ప్రాప్యత చేయడం ద్వారా <b>మీ స్థానానికి అనుగుణంగా మార్పు చెందేలా Google సచేతన చిత్రాలను అనుమతించండి</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">మీరు సెట్టింగ్‌లు > అనువర్తనాలు > అతివ్యాప్తి మెనులో సిస్టమ్ అనువర్తనాలు > సచేతన డేటా చిత్రాలు / సచేతన భూమి చిత్రాలకు వెళ్లి, ఆపై అనుమతులను నొక్కడం ద్వారా సచేతన చిత్రాల కోసం Google స్థాన సేవ ప్రాప్యతను ఆన్ లేదా ఆఫ్ చేయవచ్చు.</string>
 </resources>

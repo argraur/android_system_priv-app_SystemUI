@@ -5,5 +5,8 @@
     <item type="dimen" name="navigation_extra_key_width">@dimen/button_size</item>
     <item type="dimen" name="navigation_side_padding">@dimen/button_size</item>
     <dimen name="key_button_ripple_max_width">76.0dip</dimen>
+    <dimen name="halo_inner_radius">12.0dip</dimen>
+    <dimen name="halo_thickness">1.0dip</dimen>
+    <dimen name="halo_diameter">26.0dip</dimen>
     <dimen name="button_size">80.0dip</dimen>
 </resources>

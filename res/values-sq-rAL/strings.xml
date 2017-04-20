@@ -1137,4 +1137,6 @@ Provo sërish për %2$d sekonda."</string>
     <string name="kg_prompt_reason_device_admin">Administratori i pajisjes e kyçi pajisjen</string>
     <string name="kg_prompt_reason_user_request">Pajisja është kyçur manualisht</string>
     <string name="fingerprint_not_recognized">Nuk njihet</string>
+    <string name="google_services_wallpaper_permission"><b>Lejo që imazhet e sfondeve dinamike të Google të reagojnë ndaj vendndodhjes tënde</b> duke pasur qasje te shërbimi i vendndodhjes së Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"Mund të aktivizosh ose çaktivizosh shërbimin e vendndodhjes së Google për imazhet e sfondeve dinamike duke shkuar te \"Cilësimet > Aplikacionet > Aplikacionet e sistemit nga menyja e tejkalimit > Imazhet e  sfondeve me të dhëna dinamike / Live Imazhet e sfondeve të Tokës në lëvizje\", më pas trokit \"Lejet\"."</string>
 </resources>

@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">උපාංග පරිපාලක උපාංගය අගුලු දමන ලදී</string>
     <string name="kg_prompt_reason_user_request">උපාංගය හස්තීයව අගුලු දමන ලදී</string>
     <string name="fingerprint_not_recognized">අඳුනාගත නොහැක</string>
+    <string name="google_services_wallpaper_permission"><b>ඔබේ ස්ථානයට ප්‍රතිචාර දැක්වීමට Google හි ස්ථාන සේවාවට ප්‍රවේශ වීමෙන් Google සජීවී වෝල්පේපර්වලට ඉඩ දෙන්න</b></string>
+    <string name="google_services_wallpaper_permission_dialog_text">ඔබට පීටාර මෙනුව > සජීවී පෘථිවි වෝල්පේපර් වෙතින් සැකසීම් > යෙදුම් > පද්ධති යෙදුම් වෙත යාමෙන්, සහ අනතුරුව අවසර තට්ටු කිරීමෙන් Google හි ස්ථාන සේවාව වෙත ප්‍රවේශය ක්‍රියාත්මක කිරීමට හෝ ක්‍රියාවිරහිත කිරීමට හැකිය.</string>
 </resources>

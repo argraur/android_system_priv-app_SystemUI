@@ -1137,6 +1137,8 @@
     <string name="kg_prompt_reason_device_admin">裝置管理員已鎖定裝置</string>
     <string name="kg_prompt_reason_user_request">裝置已手動鎖定</string>
     <string name="fingerprint_not_recognized">無法識別</string>
+    <string name="google_services_wallpaper_permission"><b>允許 Google 動態桌布存取 Google 的定位服務，以便根據您的所在位置做出回應</b>。</string>
+    <string name="google_services_wallpaper_permission_dialog_text">您可以為動態桌布開啟或關閉 Google 定位服務存取權，方法如下：依序前往 [設定] > [應用程式] > 溢位選單中的 [系統應用程式] > [動態資料桌布]/[動態地球桌布]，然後輕觸 [權限]。</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
 </resources>

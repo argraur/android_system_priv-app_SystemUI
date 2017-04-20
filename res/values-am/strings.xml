@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">የመሣሪያ አስተዳዳሪ መሣሪያውን ቆልፏል</string>
     <string name="kg_prompt_reason_user_request">መሣሪያ በእጅ ተቆልፏል</string>
     <string name="fingerprint_not_recognized">አልታወቀም</string>
+    <string name="google_services_wallpaper_permission">"የGoogle አካባቢ አገልግሎትን በመጠቀም  "<b>የGoogle ሕያው ልጣፎችን ለእርስዎ አካባቢ ምላሽ እንዲሰጡ ይፍቀዱ</b>።</string>
+    <string name="google_services_wallpaper_permission_dialog_text">ከትርፍ ፍሰት ምናሌው > ሕያው የውሂብ ልጣፎች / ሕያው የምድር ልጣፎች ሆነው ወደ > የስርዓት ቅንብሮች በመሄድና ከዚያ ፈቃዶችን መታ በማድረግ ለሕያው ልጣፎች የGoogle አካባቢ አገልግሎት መዳረሻን ማብራት ወይም ማጥፋት ይችላሉ።</string>
 </resources>

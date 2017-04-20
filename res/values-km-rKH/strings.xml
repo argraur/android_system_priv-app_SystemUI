@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">អ្នកគ្រប់គ្រងឧបករណ៍បានចាក់សោឧបករណ៍</string>
     <string name="kg_prompt_reason_user_request">ឧបករណ៍ត្រូវបានចាក់សោដោយអ្នកប្រើផ្ទាល់</string>
     <string name="fingerprint_not_recognized">មិនអាចសម្គាល់បានទេ</string>
+    <string name="google_services_wallpaper_permission"><b>អនុញ្ញាតឲ្យផ្ទាំងរូបភាពមានចលនារបស់ Google ឆ្លើយតបទៅនឹងទីតាំងរបស់អ្នក</b> ដោយចូលដំណើរការសេវាកម្មទីតាំងរបស់ Google ។</string>
+    <string name="google_services_wallpaper_permission_dialog_text">អ្នកអាចបើក ឬបិទលទ្ធភាពចូលដំណើរការសេវាកម្មទីតាំងរបស់ Google សម្រាប់ផ្ទាំងរូបភាពមានចលនាបាន ដោយចូលទៅកាន់ ការកំណត់ > កម្មវិធី > កម្មវិធីប្រព័ន្ធចេញពីមីនុយបន្ថែម > ផ្ទាំងរូបភាពទិន្នន័យមានចលនា / ផ្ទាំងរូបភាពផែនដីមានចលនា បន្ទាប់មកប៉ះ សិទ្ធិអនុញ្ញាត។</string>
 </resources>

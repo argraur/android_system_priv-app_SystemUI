@@ -1137,6 +1137,8 @@
     <string name="kg_prompt_reason_device_admin">Устройството е заключено от администратора му</string>
     <string name="kg_prompt_reason_user_request">Устройството бе заключено ръчно</string>
     <string name="fingerprint_not_recognized">Не е разпознато</string>
+    <string name="google_services_wallpaper_permission"><b>Разрешете динамичните ни тапети да реагират на местоположението ви</b>, като им предоставите достъп до услугата на Google за местоположение.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Можете да включите или изключите достъпа на динамичните тапети до услугата на Google за местоположение, като отворите „Настройки“ > „Приложения“ > „Системни приложения“ от менюто при препълване, изберете „Динамични тапети с данни/Динамични тапети със Земята“ и докоснете „Разрешения“.</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
 </resources>

@@ -1137,6 +1137,8 @@ Telefonunuz soğuduktan sonra normal şekilde çalışacaktır."</string>
     <string name="kg_prompt_reason_device_admin">Cihaz yöneticisi cihazı kilitledi</string>
     <string name="kg_prompt_reason_user_request">Cihazın manuel olarak kilitlendi</string>
     <string name="fingerprint_not_recognized">Tanınmadı</string>
+    <string name="google_services_wallpaper_permission">"Google'ın konum hizmetine erişerek "<b>Google Animasyonlu duvar kağıtlarınızın konumunuza uygun şekilde değişmesine izin verin</b>.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"Taşma menüsünden Ayarlar > Uygulamalar > Sistem Uygulamaları > Animasyonlu veri duvar kağıtları / Animasyonlu Dünya Duvar Kağıtları'na gidip İzinler seçeneğine dokunarak Animasyonlu duvar kağıtlarının Google konum hizmetine erişimini açabilir veya kapatabilirsiniz."</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
 </resources>

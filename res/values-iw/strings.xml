@@ -1137,4 +1137,6 @@
     <string name="kg_prompt_reason_device_admin">מנהל המכשיר נעל אותו</string>
     <string name="kg_prompt_reason_user_request">המכשיר ננעל באופן ידני</string>
     <string name="fingerprint_not_recognized">לא זוהתה</string>
+    <string name="google_services_wallpaper_permission">‏<b>אפשר לטפטים המונפשים של Google להגיב למיקום שלך</b> על ידי גישה לשירות המיקום של Google.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">"‏תוכל להפעיל או לכבות את הגישה לשירותי המיקום של Google לטפטים מונפשים על ידי מעבר ל'הגדרות' > 'אפליקציות' > אפליקציות מערכת מ'אפשרויות נוספות' > טפטים של נתונים מונפשים / טפטים מונפשים של כדור הארץ, ולאחר מכן הקש על 'הרשאות'."</string>
 </resources>

@@ -1136,4 +1136,6 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_prompt_reason_device_admin">Skrbnik naprave je zaklenil napravo</string>
     <string name="kg_prompt_reason_user_request">Naprava je bila ročno zaklenjena</string>
     <string name="fingerprint_not_recognized">Ni prepoznano</string>
+    <string name="google_services_wallpaper_permission"><b>Omogočanje Googlovim dinamičnim ozadjem odzivanja na vašo lokacijo</b> z dostopom do Googlove lokacijske storitve.</string>
+    <string name="google_services_wallpaper_permission_dialog_text">Dostop do Googlove lokacijske storitve za dinamična ozadja je mogoče vklopiti ali izklopiti v »Nastavitve« > »Aplikacije« > »Sistemske aplikacije« v meniju z dodatnimi elementi > »Dinamična ozadja s podobami podatkov«/»Ozadja s podobami Zemlje«, nato se dotaknite »Dovoljenja«.</string>
 </resources>
